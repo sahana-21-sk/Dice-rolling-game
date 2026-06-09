@@ -22,4 +22,5 @@ To run this game, you only need **Python 3.x** installed on your computer. It us
 
 1. **Clone the repository** (or download the source script):
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone https://github.com/sahana-21-sk/Dice-rolling-game.git
+   
